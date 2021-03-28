@@ -4,4 +4,4 @@ I am a 🇬🇧 British Software Engineer with a keen interest in web technologi
 
 - 🇵🇭 Currently based in the **Philippines**
 - ⚡ CTO and Lead Engineer for **[CastHub](https://casthub.app)**
-- 💼 Lead DevOps and API Engineer for **[Gamecaster](https://gamecaster.com)**
+- 💼 Lead Developer and Systems Architect for **[Gamecaster](https://gamecaster.com)**
