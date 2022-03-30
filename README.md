@@ -3,4 +3,4 @@
 I am a 🇬🇧 British Software Engineer with a keen interest in web technologies.
 
 - 🇵🇭 Currently based in the **Philippines**
-- ⚡ Founder @ [TNotifier](https://tnotifier.app)
+- ⚡ Founder @ [Evil Kiwi](https://evil.kiwi) ([TNotifier](https://tnotifier.app), PushPilot)
